@@ -3,6 +3,9 @@ backend/.env
 
 # Database — auto-created on first run
 backend/crm.db
+crm.db
+crm.db-shm
+crm.db-wal
 
 # Dependencies — install via npm install
 node_modules/
